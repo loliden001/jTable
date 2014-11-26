@@ -10,6 +10,7 @@ public class MyTableModel extends AbstractTableModel {
 		kargatu();
 	}
 
+	//laguntzailea
 	class Lag {
 		String izena;
 		String abizena;

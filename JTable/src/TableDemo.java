@@ -7,6 +7,7 @@ import javax.swing.JTable;
 
 public class TableDemo extends JPanel{
 	public TableDemo(){
+		//superra
 		super(new GridLayout(1,0));
 		
 		JTable table = new JTable(new MyTableModel());
