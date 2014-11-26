@@ -6,7 +6,6 @@ import javax.swing.table.AbstractTableModel;
 public class MyTableModel extends AbstractTableModel {
 	private Vector<String> columnNames = new Vector<String>();
 
-	//Eraikitzailea
 	public MyTableModel() {
 		kargatu();
 	}
