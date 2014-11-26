@@ -93,11 +93,6 @@ public class MyTableModel extends AbstractTableModel {
 		data.add(lag11);
 		data.add(lag12);
 		data.add(lag13);
-
-
-
-
-		
 	}
 
 	public int getColumnCount() {
